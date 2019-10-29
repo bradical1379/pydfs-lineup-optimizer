@@ -1,2 +1,2 @@
 heroku ps:scale web=1
-web: setup:app
+web: python setup.py
